@@ -1,0 +1,35 @@
+
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    background-color: lightpink;
+}
+
+.picture {
+    text-align: center;
+    width: 500;
+    height: 700;
+}
+
+h2 {
+    font-size: 44px;
+    color: hsla(41, 54%, 47%, 0.89);
+}
+
+p {
+    font-size: 20px;
+    font-family: Tahoma, sans-serif;
+}
+
+h4 {
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.recipe {
+    font-size: 20px;
+    color: hsl(335, 68%, 42%);
+}
